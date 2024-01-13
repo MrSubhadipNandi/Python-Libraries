@@ -1,3 +1,3 @@
 # Simply-Python
-This is my github repository
-Autthon: Subhadip Nandi
+This is my github repository <br>
+Author: Subhadip Nandi
